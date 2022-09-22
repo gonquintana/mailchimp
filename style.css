@@ -1,0 +1,19 @@
+.cajaPadre {
+    display: flex;
+    border-color: chartreuse;
+}
+.summitCheck {
+    display: flex;
+    border-color: blueviolet;
+    align-items: center;
+    
+}
+.checkText {
+    display: flex;
+    border: crimson;
+    align-items: center;
+    
+}
+.textVal {
+    display: flex;
+}
